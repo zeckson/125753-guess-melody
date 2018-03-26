@@ -1,7 +1,7 @@
 # Личный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Щепотьев](https://up.htmlacademy.ru/ecmascript/4/user/125753).
-* Наставник: `Алексей Малейков`.
+* Наставник: [Алексей Малейков](https://up.htmlacademy.ru/ecmascript/4/user/4839).
 
 ---
 
